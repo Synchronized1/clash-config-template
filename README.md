@@ -1,1 +1,1 @@
-# clash-config-template
+# clash配置模板
